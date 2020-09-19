@@ -9,5 +9,5 @@
 1. [NFTimer - just a low-level c timer test project with sqlite](https://github.com/dmi3coder/NFTimer)
 
 ### Some test projects
-1. [SearchTaxi - load list of taxy in city and display them](https://github.com/dmi3coder/SearchTaxi)
-1. [Bidbot - bit in fake auction, BDD with gherkin](https://github.com/dmi3coder/bidbot)
+1. [SearchTaxi - load list of taxi in city and display them](https://github.com/dmi3coder/SearchTaxi)
+1. [Bidbot - bid in fake auction, BDD with gherkin](https://github.com/dmi3coder/bidbot)
